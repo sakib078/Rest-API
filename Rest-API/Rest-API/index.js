@@ -70,7 +70,7 @@ const port = 4242;
 
 // Listen for request
 
-mongoose.connect("mongodb+srv://db_sakib:Mongoman@cluster0.4twp21v.mongodb.net/messeges?retryWrites=true&w=majority&appName=Cluster0")
+mongoose.connect("mongodb+srv://db_user:db_password@cluster0.4twp21v.mongodb.net/messeges?retryWrites=true&w=majority&appName=Cluster0")
     .then(result => {
         console.log('Connected to MongoDB');
 
