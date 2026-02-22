@@ -1,5 +1,3 @@
-***
-
 # 🚀 REST API — Node.js Express Server
 
 A full-stack REST API built with **Node.js**, **Express**, **React**, **MongoDB**, and **Socket.io**. Designed with a decoupled client-server architecture for efficient data handling and real-time communication.
