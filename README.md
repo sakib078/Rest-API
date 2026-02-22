@@ -7,10 +7,9 @@ A full-stack REST API built with **Node.js**, **Express**, **React**, **MongoDB*
 ## 📐 Architecture
 
 ```markdown
-![Architecture Diagram](./REST_API.jpg)
+![Architecture Diagram](./REST_API.png)
 ```
 
-> This embeds your architecture image directly in the README on GitHub.
 ***
 
 ## ✨ Features
