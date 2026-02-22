@@ -6,9 +6,8 @@ A full-stack REST API built with **Node.js**, **Express**, **React**, **MongoDB*
 
 ## 📐 Architecture
 
-```markdown
 ![Architecture](https://github.com/sakib078/Rest-API/blob/main/REST_API.png)
-```
+
 
 ***
 
